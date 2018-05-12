@@ -34,7 +34,7 @@ body {
   padding-left: 20px;
 
 }
-.post-container{
+.container {
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -93,9 +93,6 @@ p {
 }
 .post-author img, .about-author img {
   border-radius: 50%
-}
-.container:nth-child(even) {
-  background-color: lightgray;
 }
 .post-container:nth-child(even) {
   background-color: #f2f2f2
